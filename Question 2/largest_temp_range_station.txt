@@ -1,0 +1,2 @@
+Station(s) with Largest Temperature Range:
+Station Station B: Range 21.6°C (Max: 33.7°C, Min: 12.1°C)

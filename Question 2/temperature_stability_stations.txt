@@ -1,0 +1,3 @@
+Temperature Stability by Station:
+Most Stable: Station Station B: StdDev 6.6°C
+Most Variable: Station Station C: StdDev 6.9°C

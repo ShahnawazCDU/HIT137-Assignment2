@@ -1,0 +1,6 @@
+Hello World!
+This is a Test File.
+
+Python Programming is FUN.
+Encryption starts from a to z and A to Z.
+
